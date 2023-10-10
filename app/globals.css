@@ -17,3 +17,7 @@ h1{
   @apply 
   font-bold md:text-[50px] text-[30px] md:text-start text-center
 }
+h2{
+  @apply 
+  font-bold md:text-[40px] text-[20px] md:text-start text-center
+}

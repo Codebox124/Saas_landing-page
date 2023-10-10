@@ -7,7 +7,7 @@ import Image from 'next/image'
 export default function Sponsors() {
   return (
     <div className='bg-background-black '>
-        <div className='max-w-5xl mx-auto py-20'>
+        <div className='max-w-5xl mx-auto py-20 md:px-0 px-6'>
             <div>
                 <h1 className='text-white'>We helped our customers raise <span>$1B+</span></h1>
             </div>
